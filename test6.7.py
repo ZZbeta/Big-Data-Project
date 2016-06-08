@@ -49,4 +49,3 @@ for i in range(m):
 f.write(h)
 end = time.time()
 print('use time:%d'%(end-start))
-print('Ok')
